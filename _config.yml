@@ -27,7 +27,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: carson ho# Add your discus identifier
+discus_identifier: # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
