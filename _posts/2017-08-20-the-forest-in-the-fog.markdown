@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 重拾博客
-date: 2017-08-20 13:32:20 +0300
+date: 2018-08-19 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-6.jpg # Add image post (optional)
-tags: [Blog, Meditation]
+tags: [Blog, Thought]
 author: # Add name author (optional)
 ---
 今日新闻网易博客宣布将于年底关闭
