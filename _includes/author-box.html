@@ -1,7 +1,7 @@
 <section class="author-box">
   <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}" class="author-img">
   <div class="author-desc">
-    <h2>Carson</h2>
+    <h2>{{site.author}}</h2>
     <p>{{site.about-author}}</p>
     <ul>
       {% if site.email %}
@@ -19,11 +19,11 @@
       {% else %}
         <li class="website"><a href="https://artemsheludko.github.io" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a></li>
       {% endif %}
-      {% if site.twitter %}
+      <!--{% if site.twitter %}
         <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
       {% else %}
         <li class="twitter"><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-      {% endif %}
+      {% endif %}-->
     </ul>
   </div>
 </section>
