@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 读书报告| 18.5-8 
+title: 读书报告| 18.8 
 date: 2018-08-22 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-2.jpg # Add image post (optional)
@@ -14,7 +14,7 @@ author: # Add name author (optional)
 
 -
 
-**《影响力》** 心理向书籍
+**《影响力》** 
 
 -
 
@@ -30,7 +30,7 @@ author: # Add name author (optional)
 
 -
 
-**《海上灵光》**，下雨拿到快递取回家，两个小时就看完了。里面很多内容其实是早年博客的摘录，老实说现在再看，有很多东西难以认同，但读书从来也没有一定肯定这样的要求，权当是，博采众长。
+**《海上灵光》**，下雨拿到快递取回家，两个小时就看完了。里面很多内容其实是早年博客的摘录，老实说现在再看，有很多东西已难以认同。
 
 
 
