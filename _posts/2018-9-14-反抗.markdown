@@ -53,6 +53,7 @@ author: # Add name author (optional)
 
 
 
+[br]
 
 
 ***
@@ -62,12 +63,12 @@ author: # Add name author (optional)
 
 
 
-
+[br]
 
 
 *（世人总以为这是诡异、发难的文学，而少有反思现状的时光。*
 
-*便是讽刺，也一点一点，情真意切）*
+*便是讽刺，一点一点，也情真意切）*
 
 
 
