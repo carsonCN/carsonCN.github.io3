@@ -14,11 +14,15 @@ author: # Add name author (optional)
 >
 > 更新中，最后同步于  2018.9.20 9:20 pm.
 
+<br/>
 
+<br/>
 
 古希腊哲学（科学、民主、（基督）的起源，发展成为人人可理解的普世价值。）
 
+<br/>
 
+<br/>
 
 ### 引入 西方哲学思维体系特点
 
@@ -30,11 +34,15 @@ author: # Add name author (optional)
 
   *（台湾大学 [苑舉正](https://www.coursera.org/instructor/yuann)）*
 
+<br/>
 
+<br/>
 
 ### **一、先苏哲学**
 
+<br/>
 
+<br/>
 
 * 米利都学派
 
@@ -49,7 +57,9 @@ author: # Add name author (optional)
 
 米利都学派开创理性思维，以观测到的事实而非神话解释世界。激起对探索世界本源的探讨。
 
+<br/>
 
+<br/>
 
 * 毕达哥拉斯学派
 
@@ -65,7 +75,9 @@ author: # Add name author (optional)
 
 
 
+<br/>
 
+<br/>
 
 
 * 爱菲斯学派
@@ -78,7 +90,9 @@ author: # Add name author (optional)
 
 fun:  人作为被动者 怎么去认识世界的本质呢？ 
 
+<br/>
 
+<br/>
 
 
 * 伊利亚学派
@@ -102,6 +116,10 @@ fun:  人作为被动者 怎么去认识世界的本质呢？
 美丽的错误
 
 经验的观察、理性的认识。
+
+<br/>
+
+<br/>
 
 
 
