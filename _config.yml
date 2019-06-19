@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://carson.ink/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author:  # add your name
+author: BLOG # add your name
 author-pic: carson-face.jpg
 about-author: 以行走观照内心。
 # Contact links
